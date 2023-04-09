@@ -29,11 +29,6 @@ cor = (input("Digite a cor que voce quer que fique a barra: r(vermelho), g(verde
 
 barra = (input("Se voce quiser barras horizontais digite h, se quiser barra verticais digite v "))
 
-if barra == 'h':
-    barraescolhida = 'barh'
-else:
-    barraescolhida = 'bar'
-
 titulo = input("Digite um titulo para o grafico ")
 
 textox = input("digite o texto que deve aparecer no eixo x ")
