@@ -9,4 +9,6 @@ Se a pessoa coloca um arquivo em csv na mesma pasta em que este arquivo,  execut
 pedidas ela pode gerar um gráfico de barras horizontais ou verticais(a pessoa escolhe), e tambem pode escolher uma destas cores como vermelho, amarelo, verde e azul.<br>
 Observação: a pessoa deve ter o python instalado em sua máquina e as seguintes bibliotecas instaladas na pasta: pandas e matplotlib
 
+<p><img src='pandasgrafico.jpg' alt="grafico feito utilizando python e matplotlib"/> Imagem de um gráfico vertical </p>
+
 
